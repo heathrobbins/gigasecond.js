@@ -1,3 +1,5 @@
+//solution to gigasecond.js in javascript on exercism.io
+
 function countSeconds(name){
       var count = 0; 
       do {
